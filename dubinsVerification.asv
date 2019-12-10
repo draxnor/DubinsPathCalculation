@@ -1,0 +1,13 @@
+R=0.5;
+q1 = StanPojazdu(1,1,0);
+q2 = StanPojazdu(2,2,pi);
+q1.K=0.1;q2.K=0.2;
+q1.plotStan();
+q2.plotStan()
+q1_LC=[q1.XPos - R*sin(q1.theta),q1.XPos - R*sin(q1.theta)
+q2_LC=[
+q2_RC=[
+
+
+LewyOkrag = viscircles([q1.XPos 1],1)
+PrawyOkrag = 
