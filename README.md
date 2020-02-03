@@ -1,2 +1,2 @@
 # DubinsPathVerification
-Weryfikacja wzorów na ścieżkę Dubinsa przy pomocy Matlaba
+Weryfikacja wyprowadzonych wzorów na ścieżkę Dubinsa. Wyznaczanie długości i wizualizacja 6 klas ścieżek. Matlab
